@@ -38,7 +38,6 @@ We may collect service data such as:
 
 - Account creation time and profile update timestamps
 - Message delivery, read, and sending status information
-- Typing indicators and last-seen or presence information
 - Conversation participant and attachment metadata
 - Device and app information needed to deliver notifications, protect accounts, and diagnose service issues
 
@@ -50,15 +49,15 @@ We use your information to:
 - Verify your phone number and sign you in
 - Deliver messages, attachments, voice notes, and notifications
 - Sync your contacts so you can identify people you may want to message
-- Show profile details, read receipts, typing indicators, and presence features
+- Show profile details and read receipts
 - Maintain service security, prevent abuse, and troubleshoot problems
 - Comply with legal obligations and enforce our terms
 
 ## 3. End-to-End Encryption and Metadata
 
-BMH is designed so message content and shared attachments are end-to-end encrypted between participants using encryption keys associated with user accounts and devices.
+BMH is designed with a security-first architecture aligned with national digital trust and data protection principles in the Kingdom of Bahrain
 
-End-to-end encryption does not eliminate all data processing. To operate the service, we still process certain metadata such as phone numbers, profile details, contact matching data, push tokens, conversation membership, message timestamps, delivery and read events, typing activity, and presence information.
+End-to-end encryption does not eliminate all data processing. To operate the service, we still process certain metadata such as phone numbers, profile details, contact matching data, push tokens, conversation membership, message timestamps, delivery and read events, and presence information.BMH cannot access or read message content as encryption keys are stored on user devices.
 
 ## 4. When We Share Information
 
@@ -116,5 +115,5 @@ We may update this Privacy Policy from time to time. If we make material changes
 
 If you have questions, requests, or concerns about this Privacy Policy or our privacy practices, contact:
 
-- Email: `info@nairdc.bh`
+- Email: `info@ncst.bh`
 
